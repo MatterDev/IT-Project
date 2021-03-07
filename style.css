@@ -9,7 +9,8 @@ a {
   color: #fff;
   letter-spacing: 50px;
   font-family: "Tesla";
-  text-align: center
+  text-align: center;
+  font-display:auto
 }
 
 @font-face {
